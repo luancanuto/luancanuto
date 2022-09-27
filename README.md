@@ -1,7 +1,7 @@
 
   
   <h1 align="center">
-    Oi Tudo bem?  😃️
+    Olá, Tudo bem?  😃️
   </h1>
  
 </div>
